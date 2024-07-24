@@ -1,4 +1,4 @@
-Python Password Generator :-
+# 🔐Python Password Generator :-
 
 * Generates passwords of variable length.
 * Includes uppercase and lowercase alphabets.
